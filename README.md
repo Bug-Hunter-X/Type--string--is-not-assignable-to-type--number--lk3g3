@@ -1,0 +1,2 @@
+# Type 'string' is not assignable to type 'number'
+This repository contains a TypeScript bug and its solution. The bug demonstrates a common type error where a string is assigned to a variable with a number type.  The solution illustrates how to handle this using type guards or type assertions.
